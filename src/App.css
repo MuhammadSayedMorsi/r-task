@@ -1,0 +1,15 @@
+.App {
+  /* height: 4000px; */
+  overflow: hidden;
+}
+
+.PrivateTabIndicator-root-146 {
+  display: none !important;
+}
+.PrivateTabIndicator-colorPrimary-147 {
+  display: none !important;
+}
+
+.MuiTabs-indicator {
+  display: none !important;
+}
